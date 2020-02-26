@@ -58,5 +58,5 @@ Please submit a link to your journal entry for this sprint, in the Sprint Retros
 
 [Here is a link to the rubric](https://www.notion.so/lambdaschool/a0252ba27b1d4466882a869fbb9d755d?v=b6f223dd5a9d40f98ea8be53aebd8c16) that will be used to assess your answers to the prompts. _Use this as a guide_ as you craft your responses.
 
-[Here is a link to a sample submission]() that you can use for inspiration.
+[Here is a link to a sample submission](https://www.notion.so/lambdaschool/1-3-Breakdown-Entry-c6da8da59cec4a819c554222cf00549e) that you can use for inspiration.
 **Note** there is no 'sample' for the User Story Quiz. This is one you really need to think through on your own.
