@@ -23,18 +23,26 @@ Please respond to the following prompts to demonstrate your understanding of pro
 
 ## Prompt 1
 
-Describe the break down process of your first release. 
+Describe the break down process of your first release. **(Non-UX students only)**
 
 - Include a screenshot of your current Trello board.
 - What are the user stories you broke your first release into? Please list them out.
 
+Describe the design choices of one of your high fidelity wireframes. **(UX students only)**
+- Include a screenshot of the wireframe along with the link to your figma.
+- Describe all the choices that led to this design in regards to both visual design and user experience.
+
 ## Prompt 2
 
-Find a Trello card that is assigned to you.
+Find a Trello card that is assigned to you. **(Non-UX students only)**
 
 - Include a screenshot of the detailed Trello card
 - How does this task tie to the overall product vision?
 - What steps go into completing this task? How long do you think it will take you to deliver this task?
+
+Describe how you implemented feedback from design critiques. **(UX students only)**
+- What feedback did you receive from other teams and your design manager?
+- Take one of your wireframes. How did you address the feedback and change the design based on design critiques? Please include screenshots of iterations for this wireframe. 
 
 ## User Story Quiz
 
