@@ -28,9 +28,9 @@ Describe the break down process of your first release. **(Non-UX students only)*
 - Include a screenshot of your current Trello board.
 - What are the user stories you broke your first release into? Please list them out.
 
-Describe the design choices of one of your high fidelity wireframes. **(UX students only)**
-- Include a screenshot of the wireframe along with the link to your figma.
-- Describe all the choices that led to this design in regards to both visual design and user experience.
+Describe the design choices behind one of your designs for one flow.. **(UX students only)**
+- Include a screenshot of the flow along with the link to your figma.
+- Describe the choices that led to this design from both a visual design and usability perspective.
 
 ## Prompt 2
 
@@ -42,9 +42,9 @@ Find a Trello card that is assigned to you. **(Non-UX students only)**
 
 Describe how you implemented feedback from design critiques. **(UX students only)**
 - What feedback did you receive from other teams and your design manager?
-- Take one of your wireframes. How did you address the feedback and change the design based on design critiques? Please include screenshots of iterations for this wireframe. 
+- Take one of your designs. How did you address the feedback and change the design based on design critiques? Please include screenshots of iterations for this design. 
 
-## User Story Quiz
+## User Story Quiz (Non-UX Students Only)
 
 For this quiz we'd like you to spend time writing out User Stories the same way that we did in class together during Sprint 2.
 Use the link below:
