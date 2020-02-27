@@ -41,7 +41,7 @@ Find a Trello card that is assigned to you. **(Non-UX students only)**
 - What steps go into completing this task? How long do you think it will take you to deliver this task?
 
 Describe how you implemented feedback from design critiques. **(UX students only)**
-- What feedback did you receive from other teams and your design manager?
+- What feedback did you receive from other teams and your design manager? Talk about one specific piece of feedback in detail.
 - Take one of your designs. How did you address the feedback and change the design based on design critiques? Please include screenshots of iterations for this design. 
 
 ## User Story Quiz (Non-UX Students Only)
