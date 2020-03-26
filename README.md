@@ -28,7 +28,8 @@ Describe the break down process of your first release. **(Non-UX students only)*
 - Include a screenshot of your current Trello board.
 - What are the user stories you broke your first release into? Please list them out.
 
-Describe the design choices behind one of your designs for one flow.. **(UX students only)**
+Describe the design choices behind one of your designs for one flow. **(UX students only)**
+
 - Include a screenshot of the flow along with the link to your figma.
 - Describe the choices that led to this design from both a visual design and usability perspective.
 
@@ -48,7 +49,7 @@ Describe how you implemented feedback from design critiques. **(UX students only
 
 For this quiz we'd like you to spend time writing out User Stories the same way that we did in class together during Sprint 2.
 Use the link below:
-**[Here is a link to a Balsamiq Wireframe of a few features](https://balsamiq.cloud/stbn0wl/pi0rkk3/r2278).**
+**[Here is a link to a Balsamiq Wireframe of a few features.](https://balsamiq.cloud/stbn0wl/pi0rkk3/r2278)**
 
 - Create a new trello board and make sure you make it public
 - Include a Motivation and finish line for each user story
