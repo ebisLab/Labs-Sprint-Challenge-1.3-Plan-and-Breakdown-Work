@@ -21,6 +21,7 @@
 4. As a volunteer I want a simple & straightforward app that I can use to log my time, data for areas I am responsible for, and sign up to help with events.
 
 Design choice behind one of the flow. (UX students only):
+
 `
 As an event manager, I want a user interface to easily enter attendee data, so that I can keep track of financial and demographic information.
 `
@@ -35,8 +36,6 @@ The UX team came out with this flow for our stake holder's request, and we feel 
                                                                                                      
 ## Prompt 2 - Tasks assigned to me.
 
-
-How does this task tie to the overall product vision?
 
 This portion will allow the user to input the necessary fields so that they can capture it in the database. The goal is to be able to access the data once we have a search filter feature implemented. 
 
@@ -61,8 +60,9 @@ https://codesandbox.io/s/react-hook-form-errormessage-y53w5
 
 
 Steps to complete task: 
-I'm still looking into the docs for more examples. I'M SO CLOSE! 
-Once this is handled, this will be connected to the graphQL portion that will connect to the backend. It shouldn't take too long to complete.
+
+- I'm still looking into the docs for more examples. I'M SO CLOSE! 
+- Once this is handled, this will be connected to the graphQL portion that will connect to the backend. It shouldn't take too long to complete.
 
 
 User Story Quiz (Non-UX Students Only)
