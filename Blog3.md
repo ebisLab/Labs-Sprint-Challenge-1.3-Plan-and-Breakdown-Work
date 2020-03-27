@@ -45,8 +45,12 @@ We have a shared task to style and create the volunteer card
 
 <img src="https://github.com/ebisLab/Labs-Sprint-Challenge-1.3-Plan-and-Breakdown-Work/blob/master/Screen%20Shot%202020-03-27%20at%2012.24.33%20PM.png?raw=true">
 
-My portion is to get the form functional, or at least the inputs functional. The problem I'm running into is that we are using 2 main libraries and it's conflicting with the functionality 
-I was able to get the validation to work, the one remaining task is to get the data to be captured. 
+- My portion is to get the form functional, or at least the inputs functional. The problem I'm running into is that we are using 2 main libraries (antd and React Hook Form) and it's conflicting with the functionality main functionality.
+- I was able to get the validation to work, the one remaining task is to get the data to be captured. 
+- My plan is to use one simple form, get it validated, get the data to be captured, connect it to the backend through graphQL, do the CRUD operations to get it to interact with the already captured data and new data, and then roll it out the rest of the form.
+
+This is a demo of what must happen in the DOM (look in the console for broad picture) 
+https://codesandbox.io/s/react-hook-form-errormessage-y53w5
 
 
 <img src="https://github.com/ebisLab/Labs-Sprint-Challenge-1.3-Plan-and-Breakdown-Work/blob/master/Screen%20Shot%202020-03-27%20at%2012.27.35%20PM.png?raw=true">
