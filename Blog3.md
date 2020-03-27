@@ -13,20 +13,18 @@
 <img src="https://github.com/ebisLab/Labs-Sprint-Challenge-1.3-Plan-and-Breakdown-Work/blob/master/Screen%20Shot%202020-03-27%20at%2011.20.43%20AM.png?raw=true">
 
 
-What are the user stories you broke your first release into? Please list them out.
-Describe the design choices behind one of your designs for one flow. (UX students only):
+###  User Stories
 
 1. As an event manager, I want a user interface to easily enter attendee data, so that I can keep track of financial and demographic information.
 2. As a business manager, I want a user interface that will save me time, so that I have more time for beer and classical music.
 3. As an owner of a not-for-profit business I want the ability to aggregate demographic information from people. This is crucial for writing government grants.
 4. As a volunteer I want a simple & straightforward app that I can use to log my time, data for areas I am responsible for, and sign up to help with events.
 
-
+Design choice behind one of the flow. (UX students only):
 `
 As an event manager, I want a user interface to easily enter attendee data, so that I can keep track of financial and demographic information.
 `
 
- Using this user flow Admin Input Data Flow.png
 The UX team came out with this flow for our stake holder's request, and we feel that this complies with the requirement from both the stakeholder and lambda labs objective
 
 <img src="https://github.com/ebisLab/Labs-Sprint-Challenge-1.3-Plan-and-Breakdown-Work/blob/master/Admin%20Input%20Data%20Flow.png?raw=true">
@@ -39,6 +37,7 @@ The UX team came out with this flow for our stake holder's request, and we feel 
 
 
 How does this task tie to the overall product vision?
+
 This portion will allow the user to input the necessary fields so that they can capture it in the database. The goal is to be able to access the data once we have a search filter feature implemented. 
 
 We have a shared task to style and create the volunteer card 
