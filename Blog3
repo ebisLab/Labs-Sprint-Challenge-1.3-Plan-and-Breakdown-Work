@@ -1,0 +1,86 @@
+Labs-Sprint-Challenge-1.3-Plan-and-Breakdown-Work
+
+This challenge allows you to practice the concepts and techniques that you have been applying to your labs project. This week you have been working as a team to first discover the tasks that need to be broken down into smaller units of work. Also, this week you should have been down in the trenches designing, coding or at the very least setting up the architecture for your labs product and data science problem and we want to hear from you about how things are going.
+
+In your challenge this week, you will demonstrate understanding over what you have been working on by responding to 2 prompts and working alone on some User Stories.
+
+For the User Stories Quiz you will need to make a new Trello board and link to it in your Journal Entry document.
+
+Instructions
+
+Read these instructions carefully. Understand exactly what is expected before starting this Journal Entry.
+
+You are not allowed to collaborate during the Journal Entry. However, you are encouraged to follow the twenty-minute rule and seek support from your TL if you need direction. Your work reflects your proficiency in user interface and your command of the concepts and techniques in team planning and product vision.
+
+We have allocated time on your schedule to ensure that you get this done at the end of each sprint.
+
+For Full Time Students: Please submit your work on this journal entry before 12pm PST every Friday.
+For Part Time Students: Please submit your work on this journal entry before the end of your 2nd '5th' day.
+Template: Decision Defense
+
+Please respond to the following prompts to demonstrate your understanding of product vision planning sessions.
+
+Prompt 1: Vision Planning Session 
+
+Describe the break down process of your first release. (Non-UX students only)
+
+Include a screenshot of your current Trello board.
+
+Screen Shot 2020-03-27 at 11.20.43 AM.png
+
+What are the user stories you broke your first release into? Please list them out.
+Describe the design choices behind one of your designs for one flow. (UX students only):
+
+1. As an event manager, I want a user interface to easily enter attendee data, so that I can keep track of financial and demographic information.
+2. As a business manager, I want a user interface that will save me time, so that I have more time for beer and classical music.
+3. As an owner of a not-for-profit business I want the ability to aggregate demographic information from people. This is crucial for writing government grants.
+4. As a volunteer I want a simple & straightforward app that I can use to log my time, data for areas I am responsible for, and sign up to help with events.
+
+1. Using this user flow Admin Input Data Flow.png
+The UX team came out with this flow for our stake holder's request, and we feel that this complies with the requirement from both the stakeholder and lambda labs objective
+
+Admin => [Container with {button}] => redirects to => [form page] => {submit button} => Preview page => Submit
+                                                                                                     => Cancel
+ The color choices, button shape, space utilized is a user friendly approach for those who need simplicity and can help navigate those who aren't computer savy.                                                                                                    
+                                                                                                     
+Prompt 2 - Tasks assigned to me.
+
+Find a Trello card that is assigned to you. (Non-UX students only)
+
+Include a screenshot of the detailed Trello card
+How does this task tie to the overall product vision?
+We have a shared task to style and create the volunteer card Screen Shot 2020-03-27 at 12.24.33 PM.png
+My portion is to get the form functional, or at least the inputs functional. The problem I'm running into is that we are using 2 main libraries and it's conflicting with the functionality 
+I was able to get the validation to work, the one remaining task is to get the data to be captured. 
+
+Screen Shot 2020-03-27 at 12.27.35 PM.png
+
+Screen Shot 2020-03-27 at 12.28.53 PM.png
+
+I'm still going to look into the docs for more examples. I'M SO CLOSE! 
+Once this is handled, this will be connected to the graphQL portion that will connect to the backend. It shouldn't take too long to complete.
+What steps go into completing this task? How long do you think it will take you to deliver this task?
+Describe how you implemented feedback from design critiques. (UX students only)
+
+What feedback did you receive from other teams and your design manager? Talk about one specific piece of feedback in detail.
+Take one of your designs. How did you address the feedback and change the design based on design critiques? Please include screenshots of iterations for this design.
+User Story Quiz (Non-UX Students Only)
+
+For this quiz we'd like you to spend time writing out User Stories the same way that we did in class together during Sprint 2. Use the link below: Here is a link to a Balsamiq Wireframe of a few features.
+
+Create a new trello board and make sure you make it public
+Include a Motivation and finish line for each user story
+Here is an example of a list of user stories based off of the lesson we went over together in class.
+Submitting your work
+
+Complete your work in your Labs directory in your google drive.
+
+Please submit a link to your journal entry for this sprint, in the Sprint Retrospective Form. This is to be done every Friday before Noon -- for Full Time -- and before the end of your 2nd '5th' day -- for Part Time -- to be counted as a submission for that sprint.
+
+Do not forget to submit your User Stories link to your Trello board in your Journal Entry response for this week.
+
+Rubric & Samples
+
+Here is a link to the rubric that will be used to assess your answers to the prompts. Use this as a guide as you craft your responses.
+
+Here is a link to a sample submission that you can use for inspiration. Note there is no 'sample' for the User Story Quiz. This is one you really need to think through on your own.
